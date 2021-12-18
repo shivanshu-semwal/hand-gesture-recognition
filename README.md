@@ -11,13 +11,17 @@
 
 # Libraries Used
 
-- `opencv` - [https://github.com/opencv/opencv-python](https://github.com/opencv/opencv-python)
-- `imutils` - [https://github.com/PyImageSearch/imutils](https://github.com/PyImageSearch/imutils)
-- `pillow` - [https://github.com/python-pillow/Pillow](https://github.com/python-pillow/Pillow)
-- `tensorflow` - [https://github.com/tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-  - `kears` - [https://github.com/keras-team/keras](https://github.com/keras-team/keras)
-- `numpy`- [https://github.com/numpy/numpy](https://github.com/numpy/numpy)
-- `scikit-learn`- [https://github.com/scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [`opencv`](https://github.com/opencv/opencv-python) - `pip install opencv-python`
+- [`imutils`](https://github.com/PyImageSearch/imutils) - `pip install imutils`
+- [`pillow`](https://github.com/python-pillow/Pillow) - `pip install Pillow`
+- [`tensorflow`](https://github.com/tensorflow/tensorflow)
+  - `pip install tensorflow` - for CPU and GPU
+  - `pip install tensorflow-gpu` - for GPU
+  - `pip install tensorflow-cpu` - for CPU
+  - [`keras`](https://github.com/keras-team/keras)
+- [`numpy`](https://github.com/numpy/numpy) - `pip install numpy`
+- [`scikit-learn`](https://github.com/scikit-learn/scikit-learn) - `pip install scikit-learn`
+- [`matplotlib`](https://github.com/matplotlib/matplotlib) - `pip install matplotlib`
 
 # Modules
 
