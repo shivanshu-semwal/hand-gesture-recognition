@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="img/main.svg" />
+    <img src="img/main.svg"/>
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ## Image Segmentation
 
 <p align="center">
-    <img src="img/segmentation.svg" />
+    <img src="img/segmentation.svg" height="300px"/>
 </p>
 
 - This module is just for learning purpose.
